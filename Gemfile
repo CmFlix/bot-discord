@@ -5,4 +5,5 @@ gemspec
 group :development, :test do
   gem 'rake', '~> 10.0'
   gem 'rubocop', '0.32.0'
+  gem "heroku-forward"
 end
